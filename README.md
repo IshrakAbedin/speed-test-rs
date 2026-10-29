@@ -4,6 +4,8 @@ A modern, comprehensive, and beautiful Terminal User Interface (TUI) application
 
 > This app is built with Google Antigravity CLI using Gemini Flash 3.8
 
+![Example Screenshot](screenshots/example.png)
+
 ---
 
 ## ✨ Features
